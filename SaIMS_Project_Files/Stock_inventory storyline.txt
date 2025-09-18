@@ -1,0 +1,37 @@
+inventory
+reciept
+payments
+invoice
+purchase order
+xxxxxxxxxxxxxxxxxcompany
+product
+price
+seller
+customer orders
+payment
+
+
+Zappy traders 
+Room No. 68, 2nd Floor, Bagdad Mansion
+Novroji Hill Road No 5, Opp To St. Joseph Church, Dongri, Umerkhadi
+Mumbai
+Maharashtra
+400009
+8047620051
+
+Kriom Enterprise
+Shop No. 3, R.K. Mandir Road
+Opp Professional Courier, Andheri East
+Mumbai
+Maharashtra
+400059
+9870447548
+
+
+Heet Enterprise
+6, Tare Compound, Opposite Dahisar Check Naka
+Western Express Highway, Near Samundra Hotel, Kandivali
+Mumbai
+Maharashtra
+400068
+8047630027
